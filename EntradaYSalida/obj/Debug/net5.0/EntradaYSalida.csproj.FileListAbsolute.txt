@@ -1,0 +1,16 @@
+C:\Users\Marcos\Desktop\Tarea1\EntradaYSalida\bin\Debug\net5.0\EntradaYSalida.exe
+C:\Users\Marcos\Desktop\Tarea1\EntradaYSalida\bin\Debug\net5.0\EntradaYSalida.deps.json
+C:\Users\Marcos\Desktop\Tarea1\EntradaYSalida\bin\Debug\net5.0\EntradaYSalida.runtimeconfig.json
+C:\Users\Marcos\Desktop\Tarea1\EntradaYSalida\bin\Debug\net5.0\EntradaYSalida.runtimeconfig.dev.json
+C:\Users\Marcos\Desktop\Tarea1\EntradaYSalida\bin\Debug\net5.0\EntradaYSalida.dll
+C:\Users\Marcos\Desktop\Tarea1\EntradaYSalida\bin\Debug\net5.0\ref\EntradaYSalida.dll
+C:\Users\Marcos\Desktop\Tarea1\EntradaYSalida\bin\Debug\net5.0\EntradaYSalida.pdb
+C:\Users\Marcos\Desktop\Tarea1\EntradaYSalida\obj\Debug\net5.0\EntradaYSalida.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\Tarea1\EntradaYSalida\obj\Debug\net5.0\EntradaYSalida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\Tarea1\EntradaYSalida\obj\Debug\net5.0\EntradaYSalida.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\Tarea1\EntradaYSalida\obj\Debug\net5.0\EntradaYSalida.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\Tarea1\EntradaYSalida\obj\Debug\net5.0\EntradaYSalida.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\Tarea1\EntradaYSalida\obj\Debug\net5.0\EntradaYSalida.dll
+C:\Users\Marcos\Desktop\Tarea1\EntradaYSalida\obj\Debug\net5.0\ref\EntradaYSalida.dll
+C:\Users\Marcos\Desktop\Tarea1\EntradaYSalida\obj\Debug\net5.0\EntradaYSalida.pdb
+C:\Users\Marcos\Desktop\Tarea1\EntradaYSalida\obj\Debug\net5.0\EntradaYSalida.genruntimeconfig.cache
