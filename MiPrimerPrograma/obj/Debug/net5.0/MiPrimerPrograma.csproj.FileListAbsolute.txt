@@ -1,0 +1,16 @@
+C:\Users\Marcos\Desktop\Tarea1\MiPrimerPrograma\bin\Debug\net5.0\MiPrimerPrograma.exe
+C:\Users\Marcos\Desktop\Tarea1\MiPrimerPrograma\bin\Debug\net5.0\MiPrimerPrograma.deps.json
+C:\Users\Marcos\Desktop\Tarea1\MiPrimerPrograma\bin\Debug\net5.0\MiPrimerPrograma.runtimeconfig.json
+C:\Users\Marcos\Desktop\Tarea1\MiPrimerPrograma\bin\Debug\net5.0\MiPrimerPrograma.runtimeconfig.dev.json
+C:\Users\Marcos\Desktop\Tarea1\MiPrimerPrograma\bin\Debug\net5.0\MiPrimerPrograma.dll
+C:\Users\Marcos\Desktop\Tarea1\MiPrimerPrograma\bin\Debug\net5.0\ref\MiPrimerPrograma.dll
+C:\Users\Marcos\Desktop\Tarea1\MiPrimerPrograma\bin\Debug\net5.0\MiPrimerPrograma.pdb
+C:\Users\Marcos\Desktop\Tarea1\MiPrimerPrograma\obj\Debug\net5.0\MiPrimerPrograma.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\Tarea1\MiPrimerPrograma\obj\Debug\net5.0\MiPrimerPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\Tarea1\MiPrimerPrograma\obj\Debug\net5.0\MiPrimerPrograma.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\Tarea1\MiPrimerPrograma\obj\Debug\net5.0\MiPrimerPrograma.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\Tarea1\MiPrimerPrograma\obj\Debug\net5.0\MiPrimerPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\Tarea1\MiPrimerPrograma\obj\Debug\net5.0\MiPrimerPrograma.dll
+C:\Users\Marcos\Desktop\Tarea1\MiPrimerPrograma\obj\Debug\net5.0\ref\MiPrimerPrograma.dll
+C:\Users\Marcos\Desktop\Tarea1\MiPrimerPrograma\obj\Debug\net5.0\MiPrimerPrograma.pdb
+C:\Users\Marcos\Desktop\Tarea1\MiPrimerPrograma\obj\Debug\net5.0\MiPrimerPrograma.genruntimeconfig.cache
